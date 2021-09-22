@@ -27,7 +27,7 @@ Linked List is nothing but a sequence of data structure, which are connected tog
 
 2) Doubly Linked List
 
-![](sll.png)
+![](dll.png)
 
 3) Circular Linked List 
 
